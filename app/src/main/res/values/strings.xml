@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Calculadora de Nómina</string>
+    <string name="descripcion">Estimación mensual según el modelo simplificado del taller (2026)</string>
+    <string name="salario">Salario básico mensual</string>
+    <string name="diurnas">Horas extra diurnas</string>
+    <string name="nocturnas">Horas extra nocturnas</string>
+    <string name="dominical">Horas extra en domingo o festivo</string>
+    <string name="transporte_empresa">La empresa suministra el transporte</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="error_salario">Ingrese un salario válido</string>
+    <string name="error_minimo">El salario no puede ser inferior al mínimo ($ 1.750.905)</string>
+    <string name="error_horas">Las horas extra deben ser un número mayor o igual a cero</string>
+    <string name="error_limite">El total de horas extra no puede superar 48 en el mes</string>
+    <string name="rango_1">Rango 1: puede recibir auxilio de transporte</string>
+    <string name="rango_2">Rango 2: sin auxilio por salario básico</string>
+    <string name="rango_3">Rango 3: salario básico desde 4 SMMLV</string>
+    <string name="devengado">Devengado</string>
+    <string name="valor_hora">Valor hora ordinaria</string>
+    <string name="salario_basico">Salario básico</string>
+    <string name="horas_extra">Horas extra</string>
+    <string name="auxilio">Auxilio de transporte</string>
+    <string name="total_devengado">Total devengado</string>
+    <string name="deducciones">Deducciones</string>
+    <string name="salud">Salud (4 %)</string>
+    <string name="pension">Pensión (4 %)</string>
+    <string name="solidaridad">Fondo de Solidaridad Pensional (1 %)</string>
+    <string name="total_deducciones">Total deducciones</string>
+    <string name="salario_neto">Salario neto a recibir</string>
+</resources>
