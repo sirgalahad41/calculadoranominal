@@ -13,7 +13,4 @@ Proyecto Android con Jetpack Compose. Implementa el **modelo simplificado del ta
 - `strings.xml`: textos visibles.
 - `drawable/rango_*.xml`: tres ilustraciones vectoriales para los rangos.
 
-## Evidencias pendientes
-Añade aquí tu nombre completo, código estudiantil, capturas de los casos A-D y una validación E. Agrega la carpeta `evidencias/` con capturas de Dice Roller y Tip Time para la entrega completa.
-
-**Nota:** los casos numéricos A y B del enunciado parecen tener pequeñas diferencias con las fórmulas que él mismo exige. El código prioriza las fórmulas explícitas.
+## presentado por carlos giraldo mejia codigo 54390
